@@ -11,4 +11,4 @@ I'm a cybersecurity student at UTSA (BBA in Cybersecurity, graduating December 2
 
 **Classes I've finished:** operating systems security, Programming I (Python), and Programming II (Java).
 
-[LinkedIn](https://www.linkedin.com/in/zeyad-rabie-913586369/)
+Here is my [LinkedIn](https://www.linkedin.com/in/zeyad-rabie-913586369/)
