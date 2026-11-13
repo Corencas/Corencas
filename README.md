@@ -1,6 +1,6 @@
 ## Hi, I'm Zeyad
 
-I'm a cybersecurity student at UTSA (BBA in Cybersecurity, graduating May 2027), based in Temple, Texas. I'm looking for remote IT and security internships.
+I'm a cybersecurity student at UTSA (BBA in Cybersecurity, graduating December 2027), based in Temple, Texas. I'm looking for remote IT and security internships.
 
 ### Projects
 
